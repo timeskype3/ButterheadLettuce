@@ -388,3 +388,5 @@ void loop()
       lcd2.print(1,0,weather_data);lcd2.print(17,0,UV_data);
     
 }
+
+//This code was written by Jirayu Janraluek 
